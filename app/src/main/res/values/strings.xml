@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="jerry_intro">Hello World! My is Jerry Rogers I like playing video games,exercise, watching anime, art, listening to music, getting on computers, and playing sports.</string>
+    <string name="button_text">SAY HELLO!</string>
+</resources>
